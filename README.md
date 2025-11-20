@@ -1,2 +1,2 @@
 # Time-Tracker-system-developed-by-me.
-An automated time tracker using google app script that tracks employees utilization of hours over a project. 
+An automated time tracker using google app script that tracks employees utilization of hours over a project. It will consider 0.05 % after 15 minutes. It is an automated time tracker that tracks employee time utilization per project and alerts trigger email notification to the admin saying that employee has completed this project within a stipulated time period. 
